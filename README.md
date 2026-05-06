@@ -31,7 +31,7 @@ The data is used to analyze salary trends, global opportunities, and industry in
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ## Key Insights
 - Senior and expert professionals earn the highest salaries
